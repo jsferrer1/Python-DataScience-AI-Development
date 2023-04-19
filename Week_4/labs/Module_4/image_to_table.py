@@ -1,6 +1,9 @@
 # read csv file student_grades.csv
 # create a dataframe from the table
 
+# install pandas
+# pip install pandas
+
 import pandas as pd
 
 # read csv file student_grades.csv
@@ -24,3 +27,6 @@ l = df.values.tolist()
 
 # display the dataframe
 print(df)
+
+# install matplotlib
+# pip install matplotlib
